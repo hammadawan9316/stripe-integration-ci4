@@ -38,7 +38,7 @@ A complete, production-ready subscription management system using Stripe and Cod
 
 #### 1. Clone or Download Project
 ```bash
-git clone https://github.com/yourusername/stripe-integration-ci4.git
+git clone https://github.com/hammadawan9316/stripe-integration-ci4.git
 cd stripe-integration-ci4
 ```
 

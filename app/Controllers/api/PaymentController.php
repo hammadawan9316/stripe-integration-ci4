@@ -10,7 +10,7 @@ class PaymentController extends BaseController
 {
     public function __construct()
     {
-        Stripe::setApiKey(getenv('STRIPE_SECRET_KEY'));
+        Stripe::setApiKey(env('STRIPE_SECRET_KEY'));
     }
 
     /**

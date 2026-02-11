@@ -34,6 +34,7 @@ class Filters extends BaseFilters
         'pagecache'     => PageCache::class,
         'performance'   => PerformanceMetrics::class,
         'cors'          => \App\Filters\CorsFilter::class,
+        'subscription'  => \App\Filters\SubscriptionFilter::class,
     ];
 
     /**
